@@ -1,6 +1,9 @@
 # Image dataset
 image-dataset/
 
+# Legacy Copy
+rock-paper-scissors copy.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
