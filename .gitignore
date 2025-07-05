@@ -10,6 +10,11 @@ models/best_models/
 # Model training logs
 models/logs/
 
+# Docker files
+Dockerfile
+.dockerignore
+.devcontainer/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
