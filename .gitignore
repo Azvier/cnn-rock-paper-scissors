@@ -4,6 +4,9 @@ image-dataset/
 # Legacy Copy
 rock-paper-scissors copy.ipynb
 
+# Model training logs
+models/logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
