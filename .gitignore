@@ -4,6 +4,9 @@ image-dataset/
 # Legacy Copy
 rock-paper-scissors copy.ipynb
 
+# Best models folder (temporary)
+models/best_models/
+
 # Model training logs
 models/logs/
 
